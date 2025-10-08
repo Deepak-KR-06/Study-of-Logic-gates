@@ -90,7 +90,7 @@ endmodule
 
 **RTL**
 
-![Screenshot(69)]()
+![Screenshot(69)](https://github.com/Deepak-KR-06/Study-of-Logic-gates/blob/07551e2c280f294916695cfca5e53ef4cf14ddf5/Screenshot%20(14).png)
 
 **Result:**    
 Thus the different digital IC"s are studied and the truth table for different logic gates are verified.
