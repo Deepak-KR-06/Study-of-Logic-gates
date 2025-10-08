@@ -85,7 +85,7 @@ endmodule
 
 **RTL realization Output:** 
 
-![Screenshot (96)](
+![Screenshot (96)](https://github.com/Deepak-KR-06/Study-of-Logic-gates/blob/80752cdb2cd3fe029bb09843fa1c71fe470b4224/Screenshot%20(15).png)
 
 
 **RTL**
