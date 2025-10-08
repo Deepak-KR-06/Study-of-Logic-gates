@@ -76,4 +76,21 @@ assign h = ~(a ^ b);
 endmodule
 ```
 
+**Logic symbol & Truthtable**
 
+![digital 1 ](https://github.com/user-attachments/assets/cb276baf-5027-4254-ac98-b8b28d1aea80)
+
+![digital 2](https://github.com/user-attachments/assets/fd6b2196-2f2c-4e7a-9c19-5eddd181c371)
+
+
+**RTL realization Output:** 
+
+![Screenshot (96)](
+
+
+**RTL**
+
+![Screenshot(69)]()
+
+**Result:**    
+Thus the different digital IC"s are studied and the truth table for different logic gates are verified.
